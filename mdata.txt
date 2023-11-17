@@ -1,0 +1,4 @@
+1234;Amoxicillin;90;80;1000;For Bacterial Infections
+1020;Advil;40;38;200;For headache
+154;Panadol;32;40;200;For oral use
+1545;Augmentin 200mg;39;42;20;For infections
